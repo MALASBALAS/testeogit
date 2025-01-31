@@ -1,4 +1,9 @@
-﻿# Álvaro Balas - Práctica Git
+
+# Project Title
+
+A brief description of what this project does and who it's for
+
+# Álvaro Balas - Práctica Git
 
 **Práctica de gestión de ramas en Git (Realizado desde la terminal).**
 
